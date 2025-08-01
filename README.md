@@ -42,3 +42,4 @@ A common approach is to start with a simple algorithm like Naive Bayes for text 
 
 #OUTPUT:
 
+<img width="975" height="759" alt="Image" src="https://github.com/user-attachments/assets/b1774972-a3b3-4043-95c1-45d8c709ef78" />
